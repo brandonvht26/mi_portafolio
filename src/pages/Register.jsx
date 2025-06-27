@@ -1,10 +1,14 @@
 import React from 'react'
+import { Link } from 'react-router'
 
 const Register = () => {
     return (
-        <div>
-            Register
-        </div>
+        <>
+            <h1>Page Register</h1>
+            <button>
+                <Link to="/">Retornar</Link>
+            </button>
+        </>
     )
 }
 

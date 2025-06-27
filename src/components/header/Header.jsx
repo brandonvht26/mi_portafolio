@@ -15,7 +15,7 @@ const Header = () => {
                     <li><a href="#expert">Experticia</a></li>
                     <li><a href="#contact">Contacto</a></li>
                     <Link to="/login">Inicio de sesión</Link>
-                    <Link to="/regisro">Registro</Link>
+                    <Link to="/register">Registro</Link>
                 </ul>
             </nav>
             <Main />
